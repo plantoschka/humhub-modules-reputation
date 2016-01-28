@@ -1,5 +1,6 @@
 #Reputation module for HumHub
 This module integrates a reputation system into HumHub.
+It only works with HumHub 0.11.x
 
 ##About
 __Author:__ Anton Kurnitzky
