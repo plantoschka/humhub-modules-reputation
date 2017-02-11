@@ -2,6 +2,8 @@
 This module integrates a reputation system into HumHub.
 It only works with HumHub 0.11.x
 
+You can find a newer version here: https://github.com/globeFrEak/humhub-modules-reputation
+
 ##About
 __Author:__ Anton Kurnitzky
 
